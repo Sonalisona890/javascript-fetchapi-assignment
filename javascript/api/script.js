@@ -24,4 +24,4 @@ const data= async ()=>{
     }
 }
 button.addEventListener("click",data)
-
+data()
